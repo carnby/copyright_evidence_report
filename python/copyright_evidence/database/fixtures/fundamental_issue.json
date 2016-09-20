@@ -1,0 +1,47 @@
+[
+	{
+		"model": "database.FundamentalIssue",
+		"pk": 1,
+		"fields": {
+			"code": "1",
+			"label": "Relationship between protection",
+			"description": "subject matter/term/scope) and supply/economic development/growth/welfare"
+		}
+	},
+	{
+		"model": "database.FundamentalIssue",
+		"pk": 2,
+		"fields": {
+			"code": "2",
+			"label": "Relationship between creative process and protection - what motivates creators",
+			"description": "attribution; control; remuneration; time allocation)?"
+		}
+	},
+	{
+		"model": "database.FundamentalIssue",
+		"pk": 3,
+		"fields": {
+			"code": "3",
+			"label": "Harmony of interest assumption between authors and publishers",
+			"description": "creators and producers/investors"
+		}
+	},
+	{
+		"model": "database.FundamentalIssue",
+		"pk": 4,
+		"fields": {
+			"code": "4",
+			"label": "Effects of protection on industry structure",
+			"description": "oligopolies; competition; economics of superstars; business models; technology adoption"
+		}
+	},
+	{
+		"model": "database.FundamentalIssue",
+		"pk": 5,
+		"fields": {
+			"code": "5",
+			"label": "Understanding consumption/use",
+			"description": "determinants of unlawful behaviour; user-generated content; social media"
+		}
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "A",
+		"fields": {
+			"code": "A",
+			"label": "Nature and Scope of exclusive rights",
+			"description": "hyperlinking/browsing; reproduction right"
+		}
+	},
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "B",
+		"fields": {
+			"code": "B",
+			"label": "Exceptions",
+			"description": "distinguish innovation and public policy purposes; open-ended/closed list; commercial/non-commercial distinction"
+		}
+	},
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "C",
+		"fields": {
+			"code": "C",
+			"label": "Mass digitisation/orphan works",
+			"description": "non-use; extended collective licensing"
+		}
+	},
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "D",
+		"fields": {
+			"code": "D",
+			"label": "Licensing and Business models",
+			"description": "collecting societies; meta data; exchanges/hubs; windowing; crossborder availability"
+		}
+	},
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "E",
+		"fields": {
+			"code": "E",
+			"label": "Fair remuneration",
+			"description": "levies; copyright contracts"
+		}
+	},
+	{
+		"model": "database.EvidenceBasedPolicy",
+		"pk": "F",
+		"fields": {
+			"code": "F",
+			"label": "Enforcement",
+			"description": "quantifying infringement; criminal sanctions; intermediary liability; graduated response; litigation and court data; commercial/non-commercial distinction; education and awareness"
+		}
+	}
+]
